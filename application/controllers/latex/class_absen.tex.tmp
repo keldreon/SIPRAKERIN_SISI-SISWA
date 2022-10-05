@@ -1,0 +1,24 @@
+\hypertarget{class_absen}{}\section{Absen Class Reference}
+\label{class_absen}\index{Absen@{Absen}}
+
+
+Inheritance diagram for Absen\+:
+% FIG 0
+
+
+Collaboration diagram for Absen\+:
+% FIG 1
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_absen_a149eb92716c1084a935e04a8d95f7347}\label{class_absen_a149eb92716c1084a935e04a8d95f7347}} 
+{\bfseries index} ()
+\item 
+\mbox{\Hypertarget{class_absen_a73587b8ae3724a4e9848db4cd532b577}\label{class_absen_a73587b8ae3724a4e9848db4cd532b577}} 
+{\bfseries klik\+Absen} ()
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Absen.\+php\end{DoxyCompactItemize}
